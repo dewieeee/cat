@@ -1,0 +1,14 @@
+# Distribution / packaging
+build/
+dist/
+node_modules/
+
+# Environments
+.env
+.venv
+env/
+venv/
+env.d.ts 
+
+# Secrets
+*secrets*
