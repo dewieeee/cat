@@ -12,3 +12,6 @@ env.d.ts
 
 # Secrets
 *secrets*
+
+# Scaffolding
+scaffolding/
